@@ -1,3 +1,5 @@
+only used for testing purposes
+
 [Chrono][docsrs]: Timezone-aware date and time handling
 ========================================
 
